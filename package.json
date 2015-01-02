@@ -1,0 +1,31 @@
+{
+  "name": "bb-express-stack",
+  "version": "1.0.0",
+  "description": "bb-express-stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/walking-skeletons/bb-express-stack.git"
+  },
+  "keywords": [
+    "javascript",
+    "express",
+    "backbone"
+  ],
+  "author": "k33g aka @k33g_org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walking-skeletons/bb-express-stack/issues"
+  },
+  "homepage": "https://github.com/walking-skeletons/bb-express-stack",
+  "dependencies": {
+    "basic-auth": "^1.0.0",
+    "body-parser": "^1.10.1",
+    "express": "^4.10.6",
+    "express-session": "^1.9.3",
+    "nedb": "^1.1.1"
+  }
+}
